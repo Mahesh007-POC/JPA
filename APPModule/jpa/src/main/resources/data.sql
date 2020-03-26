@@ -1,0 +1,3 @@
+INSERT INTO COURSE VALUES(1, 'Maths');
+INSERT INTO COURSE VALUES(2, 'Physics');
+commit;

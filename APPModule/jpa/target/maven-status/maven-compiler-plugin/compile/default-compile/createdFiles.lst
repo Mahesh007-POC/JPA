@@ -1,0 +1,7 @@
+com\courses\repository\CoursesRepository.class
+com\courses\serviceimpl\CourseServiceImpl.class
+com\courses\service\CourseService.class
+com\courses\model\Course.class
+com\courses\appconfig\InitConfiguration.class
+com\courses\controllers\CourseController.class
+com\courses\model\AuthorizationToken.class

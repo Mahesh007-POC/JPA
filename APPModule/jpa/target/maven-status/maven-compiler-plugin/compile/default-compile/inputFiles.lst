@@ -1,0 +1,10 @@
+D:\projects\MyFirstApplication\jpa\src\main\java\com\courses\appconfig\User.java
+D:\projects\MyFirstApplication\jpa\src\main\java\com\courses\appconfig\UserCredentials.java
+D:\projects\MyFirstApplication\jpa\src\main\java\com\courses\repository\CoursesRepository.java
+D:\projects\MyFirstApplication\jpa\src\main\java\com\courses\controllers\CourseController.java
+D:\projects\MyFirstApplication\jpa\src\main\java\com\courses\model\AuthorizationToken.java
+D:\projects\MyFirstApplication\jpa\src\main\java\com\courses\appconfig\InitConfiguration.java
+D:\projects\MyFirstApplication\jpa\src\main\java\com\courses\appconfig\SecurityConfiguration.java
+D:\projects\MyFirstApplication\jpa\src\main\java\com\courses\service\CourseService.java
+D:\projects\MyFirstApplication\jpa\src\main\java\com\courses\model\Course.java
+D:\projects\MyFirstApplication\jpa\src\main\java\com\courses\serviceimpl\CourseServiceImpl.java
