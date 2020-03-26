@@ -13,5 +13,5 @@ REST API consists of endpoints.
   
  h2 hibernate DB is inmemory based DB and stored all data in local machiene.Data and tables are refreshed once application
  is restarted/stop.
- Immemory db consists of many typees and can be changed in property file "src/main/resources/application.properties".
- Currently data is persisted event though application is restarted/stop.This behaviour can be altered with in properties file.
+ Immemory db consists of many types and can be changed in property file "src/main/resources/application.properties".
+ Currently data is persisted even though application is restarted/stop.This behaviour can be altered with in properties file.
